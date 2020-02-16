@@ -1,2 +1,2 @@
 # Population-Prediction
-Population prediction program made in matlab that uses linear regression to predict population in future and it can interpolate population for years that population is not known. It takes data from Excel file and prints graph and predicted population at a given year
+Population prediction program made in matlab that uses linear regression to predict population in future and it can interpolate population for years that population is not known. It takes data from Excel file and prints graph and predicted population at a given year. This program was my "Computational Programming for Engineers" course bonus homework. For homework I used population data taken from TUİK(Statistics Institution of Turkey) and predicted population.    
